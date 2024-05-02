@@ -74,7 +74,8 @@ If the exploit works, you should see an output similar to below, and you should 
 
 ### Sample Run
 
-```shD:\PS4\exploit\PPPwn>python3 pppwn.py --interface=Ethernet --fw=900
+```sh
+D:\PS4\exploit\PPPwn>python3 pppwn.py --interface=Ethernet --fw=900
 [+] PPPwn - PlayStation 4 PPPoE RCE by theflow
 [+] args: interface=Ethernet fw=900 stage1=stage1/stage1.bin stage2=stage2/stage2.bin
 [+] STAGE 0: Initialization
