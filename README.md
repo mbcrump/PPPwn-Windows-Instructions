@@ -44,7 +44,7 @@ In order to get started, you'll need the following items. Make sure to install a
   pip install -r requirements.txt
   ```
 
-3. Download the  `PPPwn.rar` from this [Mega.nz](https://mega.nz/file/Y4VgEBQa#t4BiPCu5PJOt57loTDa2ycxCb_OAhd-qWQDpvSyrEpA) site and copy the `stage1` and `stage2` folder to where you installed the exploit overwritting any files. 
+3. Download the  `PPPwn.rar` from [here](https://github.com/mbcrump/PPPwn-Windows-Instructions/blob/main/compiled-binaries/PPPwn.rar) site and copy the `stage1` and `stage2` folder to where you installed the exploit overwritting any files. 
 
 4. Run the exploit:
 
