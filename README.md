@@ -44,9 +44,11 @@ In order to get started, you'll need the following items. Make sure to install a
   pip install -r requirements.txt
   ```
 
-3. Download the  `PPPwn.rar` from [here](https://github.com/mbcrump/PPPwn-Windows-Instructions/blob/main/compiled-binaries/PPPwn.rar) site and copy the `stage1` and `stage2` folder to where you installed the exploit overwritting any files. 
+3. Download the  `PPPwn.rar` from [here](https://github.com/mbcrump/PPPwn-Windows-Instructions/blob/main/compiled-binaries/PPPwn.rar) site and copy the `stage1` and `stage2` folder to where you installed the exploit overwritting any files.
 
-4. Run the exploit:
+4. Inside the `PPPwn.rar`, you'll find a `usb` directory followed by a `payload.bin` file. Copy the `payload.bin` file to a USB Drive and insert it into your PS4. Note this is only for 9.00. 
+
+5. Run the exploit:
 
   ```sh
   python3 pppwn.py --interface=Ethernet --fw=900
@@ -54,7 +56,7 @@ In order to get started, you'll need the following items. Make sure to install a
 
 For other firmwares, e.g. FW 9.03, pass `--fw=903`.
 
-5. On your PS4:
+6. On your PS4:
 
   - Go to `Settings` and then `Network`
   - Select `Set Up Internet connection` and choose `Use a LAN Cable`
