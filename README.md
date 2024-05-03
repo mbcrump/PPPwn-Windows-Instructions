@@ -68,11 +68,11 @@ For other firmwares, e.g. FW 9.03, pass `--fw=903`.
 
 If the exploit fails or the PS4 crashes, you can skip the internet setup and simply click on `Test Internet Connection`. If the `pppwn.py` script is stuck waiting for a request/response, abort it and run it again on your computer, and then click on `Test Internet Connection` on your PS4.
 
-If the exploit works, you should see an output similar to below, and you should see `Cannot connect to network.` followed by `PPPwned` printed on your PS4.
+If the exploit works, you should see an output similar to below, and you should see `Cannot connect to network.` followed by `GoldHen` loaded on your PS4.
 
 ### Video Tutorial
 
-[![Step-by-step tutorial](https://img.youtube.com/vi/-_hu8sdxV9U/0.jpg)](https://www.youtube.com/watch?v=-_hu8sdxV9U)
+[![Step-by-step tutorial](https://img.youtube.com/vi/zVCOcZXWnlg/0.jpg)](https://www.youtube.com/watch?v=zVCOcZXWnlg)
 
 ### Sample Run
 
