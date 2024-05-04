@@ -16,7 +16,7 @@ Supported PS4 versions are:
 
 ## Homebrew Status
 
-These instructions will enable GoldHen on 9.00 only right now.  You can also follow the project by [LM](https://github.com/LightningMods/PPPwn). 
+These instructions will enable GoldHen on 9.00 only right now.  You can also follow the project by [LM](https://github.com/LightningMods/PPPwn). If you have version 11.0, then you can enable debug settings and install fpkgs. 
 
 ## Requirements
 
